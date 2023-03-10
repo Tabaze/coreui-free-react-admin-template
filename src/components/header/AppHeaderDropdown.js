@@ -36,7 +36,7 @@ const AppHeaderDropdown = () => {
           <CIcon icon={cilBell} className="me-2" />
           Updates
           <CBadge color="info" className="ms-2">
-            42
+            5
           </CBadge>
         </CDropdownItem>
         <CDropdownItem href="#">
